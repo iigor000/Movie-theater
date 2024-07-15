@@ -1,0 +1,13 @@
+igor|pass123|Igor|Novakovic|0
+Ban3c|sifra123|Branislav|Mirkov|0
+ban3c|pas1234|Branko|Mirko|1
+ivko|1234qwe|Ivan|Novakovic|1
+man|pass123|Novi|User|1
+mare|password12|Marko|Kartalovic|2
+newUser|qwerty1|New|User|0
+kupac|pass123|Novi|Kupac|0
+dux|123qweasd|Milos|Dukic|0
+cepa|pqow0192|Stefan|Popejkov|0
+noviUser|bla123bla|Ime|Prez|0
+prod|bla123bla|Novi|Prodavac|1
+men|pass123|Novi|Menadzer|2
